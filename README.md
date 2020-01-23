@@ -8,4 +8,6 @@ IPy are a Python class and tools for handling of IPv4 and IPv6 addresses and net
 ### 4. Sentry  
 Sentry is cross-platform application monitoring, with a focus on error reporting   stars:23K
 django写的跨平台监控报错信息收集平台  入门链接：http://sinhub.cn/2019/07/getting-started-guide-of-sentry/
+### 5. DjangoBlog
+支持markdown，支持oauth（第三方验证平台），支持微信公众号平台，简单的SEO功能，新的文章会通知到google和百度
 
