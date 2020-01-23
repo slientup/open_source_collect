@@ -11,7 +11,7 @@ django写的跨平台监控报错信息收集平台  入门链接：http://sinhu
 ### 5. DjangoBlog
 支持markdown，支持oauth（第三方验证平台），支持微信公众号平台，简单的SEO功能，新的文章会通知到google和百度
 ### 6. werobot 
-微信公众号开发框架平台
+微信公众号开发框架平台  链接：https://werobot.readthedocs.io/zh_CN/latest/#werobot
 
 
 
