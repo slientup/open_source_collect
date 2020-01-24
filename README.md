@@ -14,6 +14,9 @@ django写的跨平台监控报错信息收集平台  入门链接：http://sinhu
 微信公众号开发框架平台  链接：https://werobot.readthedocs.io/zh_CN/latest/#werobot
 ### 7. alipay  
 蚂蚁金服python-alipay-sdk支付平台python调用sdk包 参考dailyfresh-B2C项目的实现。
+### 8. python-elasticsearch-logger
+将日志吐到es平台的包
+
 
 
 
